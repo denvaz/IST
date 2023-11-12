@@ -203,6 +203,7 @@ def binary_search_first_n_elements(arr):
 
     return result
 
+# Функция проверки введенного числа
 def get_positive_integer_input(prompt):
     while True:
         try:
